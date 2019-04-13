@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/useHello.dir/main.cpp.o  -o useHello -rdynamic libhello.so -Wl,-rpath,/home/eric/Desktop/Practice/SLAM/SLAMPractice/helloSLAM3/build 
